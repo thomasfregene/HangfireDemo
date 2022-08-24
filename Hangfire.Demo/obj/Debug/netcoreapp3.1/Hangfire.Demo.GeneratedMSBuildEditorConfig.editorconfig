@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Hangfire.Demo
+build_property.ProjectDir = C:\Repo\Hangfire.Demo\Hangfire.Demo\
